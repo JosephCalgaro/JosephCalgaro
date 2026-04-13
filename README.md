@@ -69,8 +69,7 @@ Apaixonado por resolver problemas reais com código.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JosephCalgaro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephCalgaro&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=JosephCalgaro&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 
 </div>
 
